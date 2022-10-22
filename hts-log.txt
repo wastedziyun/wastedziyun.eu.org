@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Oct 2022 20:24:56 at http://wastedziyun.eu.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" http://wastedziyun.eu.org -O1 "F:\WEBSITES\wastest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:25:01	Warning: 	Note: due to wastedziyun.eu.org remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+20:26:24	Error: 	"Method Not Allowed" (405) at link wastedziyun.eu.org/xmlrpc.php (from wastedziyun.eu.org/)
+20:30:02	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=5
+20:30:02	Warning: 	File has moved from wastedziyun.eu.org/?p=5 to http://wastedziyun.eu.org/about
+20:30:04	Error: 	"Not Found" (404) at link wastedziyun.eu.org/blogs/tag/随笔 (from wastedziyun.eu.org/blogs)
+20:30:43	Error: 	"Not Found" (404) at link wastedziyun.eu.org/blogs/tag/日志 (from wastedziyun.eu.org/blogs)
+20:30:43	Warning: 	Retry after error -4 (No data (connection closed)) at link wastedziyun.eu.org/blogs/150 (from wastedziyun.eu.org/blogs)
+20:30:45	Error: 	"Not Found" (404) at link wastedziyun.eu.org/blogs/tag/文章 (from wastedziyun.eu.org/blogs)
+20:32:56	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=90
+20:32:56	Warning: 	File has moved from wastedziyun.eu.org/?p=90 to http://wastedziyun.eu.org/stream
+20:32:56	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=252
+20:32:56	Warning: 	File has moved from wastedziyun.eu.org/?p=252 to http://wastedziyun.eu.org/blogs/252
+20:33:00	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=223
+20:33:00	Warning: 	File has moved from wastedziyun.eu.org/?p=223 to http://wastedziyun.eu.org/blogs/223
+20:33:00	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=182
+20:33:00	Warning: 	File has moved from wastedziyun.eu.org/?p=182 to http://wastedziyun.eu.org/blogs/182
+20:33:08	Error: 	Unable to save file F:/WEBSITES/wastest/wastedziyun.eu.org/blogs/150: Permission denied
+20:33:08	Warning: 	Retry after error -4 (No data (connection closed)) at link wastedziyun.eu.org/blogs/118/feed (from wastedziyun.eu.org/blogs/118)
+20:33:09	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=118
+20:33:09	Warning: 	File has moved from wastedziyun.eu.org/?p=118 to http://wastedziyun.eu.org/blogs/118
+20:33:09	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=115
+20:33:09	Warning: 	File has moved from wastedziyun.eu.org/?p=115 to http://wastedziyun.eu.org/blogs/115
+20:33:26	Warning: 	Retry after error -2 (Receive Time Out) at link wastedziyun.eu.org/blogs/115?replytocom=11 (from wastedziyun.eu.org/blogs/115)
+20:33:26	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=101
+20:33:26	Warning: 	File has moved from wastedziyun.eu.org/?p=101 to http://wastedziyun.eu.org/blogs/101
+20:33:37	Warning: 	Retry after error -2 (Receive Time Out) at link wastedziyun.eu.org/?p=1 (from wastedziyun.eu.org/blogs/1)
+20:33:37	Warning: 	Retry after error -4 (No data (connection closed)) at link wastedziyun.eu.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwastedziyun.eu.org%2Fblogs%2F1 (from wastedziyun.eu.org/blogs/1)
+20:33:38	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=150
+20:33:38	Warning: 	File has moved from wastedziyun.eu.org/?p=150 to http://wastedziyun.eu.org/blogs/150
+20:33:38	Warning: 	Moved Permanently for wastedziyun.eu.org/?p=1
+20:33:38	Warning: 	File has moved from wastedziyun.eu.org/?p=1 to http://wastedziyun.eu.org/blogs/1
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 42 seconds : 134 links scanned, 113 files written (2967522 bytes overall) [3172327 bytes received at 6077 bytes/sec], 1.2 requests per connection
+(5 errors, 26 warnings, 0 messages)

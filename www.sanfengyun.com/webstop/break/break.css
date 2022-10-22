@@ -1,0 +1,20 @@
+
+
+/*-------------------  Show_Dialog 部分样式开始 -----------------------*/
+#shadow_layer {	Z-INDEX: 2000; POSITION: absolute; FILTER: alpha(opacity=20); BACKGROUND-COLOR: #000000; DISPLAY: none; TOP: 0px; LEFT: 0px; opacity: 0.2; -moz-opacity: 0.2}
+#fwin_dialog_title{ font-size:14px; color:#0099CC; float:left;}
+#Ajax_shadow_layer {	Z-INDEX: 2001; POSITION: absolute; FILTER: alpha(opacity=20); BACKGROUND-COLOR: #000000; DISPLAY: none; TOP: 0px; LEFT: 0px; opacity: 0.2; -moz-opacity: 0.2}
+#Ajax_fwin_dialog_title{ font-size:14px; color:#0099CC; float:left;}
+.fwin {	TEXT-ALIGN: left; OVERFLOW-X: hidden; MARGIN: 0px auto;}
+.t_c {	 FILTER: alpha(opacity=90);BACKGROUND: #278296; OVERFLOW: hidden; opacity: 0.9; WIDTH: 8px; HEIGHT: 8px}
+.m_c {	BACKGROUND: #f1f5fa;} 
+.fcontent {	MARGIN: 15px ;width:200px;}
+.fcontent_1 {	MARGIN: 15px ;width:290px;height:140px;}
+.fcontent_2 {	MARGIN: 15px ;width:320px;}
+
+.float_ctrl {	LINE-HEIGHT: 20px; MARGIN-BOTTOM: 15px; HEIGHT: 20px;}
+.float_ctrl EM {	FLOAT: left; COLOR: #09c; FONT-SIZE: 14px; FONT-WEIGHT: 700;}
+.float_ctrl EM A {	TEXT-DECORATION: none}
+.float_close {	TEXT-INDENT: -9999px; WIDTH: 20px; BACKGROUND: url(img/newclose.gif) no-repeat 0px 0px; FLOAT: right; HEIGHT: 20px; }
+/*-------------------   Show_Dialog 部分样式结束 ---------------------*/
+

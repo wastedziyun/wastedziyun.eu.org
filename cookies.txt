@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wastedziyun.eu.org	TRUE	/	FALSE	1999999999	CookieZJWFANGDAOLIAN	104.160.190.154#2022-10-22-20#wastedziyun.eu.org
+wastedziyun.eu.org	TRUE	/	FALSE	1999999999	_d_id	0d5815aab81ec5547109cb1747de03
+ftp6549879.host126.sanfengyun.cn	TRUE	/	FALSE	1999999999	_d_id	0d5e15e5a58ebfc5e809cb1747de03
+
