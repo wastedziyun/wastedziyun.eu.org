@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>随笔 &#8211; wastedziyun</title>
+	<atom:link href="http://wastedziyun.eu.org/blogs/category/r/feed" rel="self" type="application/rss+xml" />
+	<link>http://wastedziyun.eu.org</link>
+	<description>Personal Page</description>
+	<lastBuildDate>Tue, 04 Oct 2022 06:22:32 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>http://wastedziyun.eu.org/wp-content/uploads/2022/09/cropped-@WindowsUpdateToastIcon.contrast-black-32x32.png</url>
+	<title>随笔 &#8211; wastedziyun</title>
+	<link>http://wastedziyun.eu.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>穿堂风</title>
+		<link>http://wastedziyun.eu.org/blogs/252</link>
+					<comments>http://wastedziyun.eu.org/blogs/252#comments</comments>
+		
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 06:19:20 +0000</pubDate>
+				<category><![CDATA[随笔]]></category>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=252</guid>
+
+					<description><![CDATA[站上有雨丝轻飘飘，擦过我的脸。空空荡荡的列车驶进，带去一个不知名的人。 风儿穿梭着，过时间，过空间，过我的记忆 &#8230; <a href="http://wastedziyun.eu.org/blogs/252" class="more-link">继续阅读<span class="screen-reader-text">穿堂风</span></a>]]></description>
+		
+					<wfw:commentRss>http://wastedziyun.eu.org/blogs/252/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>十月二日</title>
+		<link>http://wastedziyun.eu.org/blogs/223</link>
+					<comments>http://wastedziyun.eu.org/blogs/223#respond</comments>
+		
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Sun, 02 Oct 2022 11:35:14 +0000</pubDate>
+				<category><![CDATA[随笔]]></category>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=223</guid>
+
+					<description><![CDATA[幻想，假想，冥想，争吵，落寞 行动力低到深处，我的感受杂糅成一团 我不由得弓下背来]]></description>
+		
+					<wfw:commentRss>http://wastedziyun.eu.org/blogs/223/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>密码保护：9.5-9.9校内所感</title>
+		<link>http://wastedziyun.eu.org/blogs/118</link>
+					<comments>http://wastedziyun.eu.org/blogs/118#comments</comments>
+		
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Sat, 10 Sep 2022 02:04:06 +0000</pubDate>
+				<category><![CDATA[随笔]]></category>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=118</guid>
+
+					<description><![CDATA[无法提供摘要。这是一篇受保护的文章。]]></description>
+		
+					<wfw:commentRss>http://wastedziyun.eu.org/blogs/118/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://wastedziyun.eu.org/blogs/1</link>
+					<comments>http://wastedziyun.eu.org/blogs/1#comments</comments>
+		
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Sat, 03 Sep 2022 11:09:44 +0000</pubDate>
+				<category><![CDATA[随笔]]></category>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1</guid>
+
+					<description><![CDATA[This is a test page. &#8212; nothing there plz wait &#8 &#8230; <a href="http://wastedziyun.eu.org/blogs/1" class="more-link">继续阅读<span class="screen-reader-text">Hello world!</span></a>]]></description>
+		
+					<wfw:commentRss>http://wastedziyun.eu.org/blogs/1/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
