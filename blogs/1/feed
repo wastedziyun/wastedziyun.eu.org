@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	《Hello world!》的评论	</title>
+	<atom:link href="http://wastedziyun.eu.org/blogs/1/feed" rel="self" type="application/rss+xml" />
+	<link>http://wastedziyun.eu.org/blogs/1</link>
+	<description>Personal Page</description>
+	<lastBuildDate>Fri, 30 Sep 2022 13:53:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		评论者：pelm00		</title>
+		<link>http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-10</link>
+
+		<dc:creator><![CDATA[pelm00]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 12:13:01 +0000</pubDate>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1#comment-10</guid>
+
+					<description><![CDATA[t2]]></description>
+			<content:encoded><![CDATA[<p>t2</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		评论者：pelm00		</title>
+		<link>http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-9</link>
+
+		<dc:creator><![CDATA[pelm00]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 12:10:07 +0000</pubDate>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1#comment-9</guid>
+
+					<description><![CDATA[test]]></description>
+			<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		评论者：wastedziyun		</title>
+		<link>http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-8</link>
+
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 11:53:43 +0000</pubDate>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1#comment-8</guid>
+
+					<description><![CDATA[Akismet]]></description>
+			<content:encoded><![CDATA[<p>Akismet</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		评论者：wastedziyun		</title>
+		<link>http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-7</link>
+
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 03:36:57 +0000</pubDate>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1#comment-7</guid>
+
+					<description><![CDATA[test]]></description>
+			<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		评论者：wastedziyun		</title>
+		<link>http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-6</link>
+
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 02:10:09 +0000</pubDate>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1#comment-6</guid>
+
+					<description><![CDATA[test]]></description>
+			<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		评论者：wastedziyun		</title>
+		<link>http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-5</link>
+
+		<dc:creator><![CDATA[wastedziyun]]></dc:creator>
+		<pubDate>Sat, 03 Sep 2022 14:01:31 +0000</pubDate>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1#comment-5</guid>
+
+					<description><![CDATA[回复给&lt;a href=&quot;http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-2&quot;&gt;xrdrsp&lt;/a&gt;。
+
+Hello!]]></description>
+			<content:encoded><![CDATA[<p>回复给<a href="http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-2">xrdrsp</a>。</p>
+<p>Hello!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		评论者：xrdrsp		</title>
+		<link>http://wastedziyun.eu.org/blogs/1/comment-page-1#comment-2</link>
+
+		<dc:creator><![CDATA[xrdrsp]]></dc:creator>
+		<pubDate>Sat, 03 Sep 2022 11:19:07 +0000</pubDate>
+		<guid isPermaLink="false">http://wastedziyun.eu.org/?p=1#comment-2</guid>
+
+					<description><![CDATA[Hello!]]></description>
+			<content:encoded><![CDATA[<p>Hello!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
